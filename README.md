@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/marv052" target="blank"><img src="https://img.shields.io/twitter/follow/marv052?logo=twitter&style=for-the-badge" alt="marv052" /></a> </p>
 
-- 🔭 I’m currently working on **Hook Development**
-
 - 🌱 I’m currently learning **Discord.js**
 
 <h3 align="left">Connect with me:</h3>
