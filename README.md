@@ -1,3 +1,7 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marv052&theme=tokyonight)
+
+
+
 <h1 align="center">Hi 👋, I'm Marvin</h1>
 <h3 align="center">a hobby developer from Germany</h3>
 
